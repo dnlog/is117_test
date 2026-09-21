@@ -104,4 +104,6 @@ If you want to investigate these ideas more deeply, search for:
 
 ## What You Should Remember
 
-Persuasion shapes attention, interpretation, trust, and action, but ethical persuasion preserves an informed, meaningful choice. The same plain white T-shirt can be framed as practical, sustainable, fashionable, or communal without changing the product. Use influence principles and clear design to reveal real value; never use them to hide the truth, manufacture pressure, or trap people into a decision.
+- `Persuasion shapes attention, interpretation, trust, and action, but ethical persuasion preserves an informed, meaningful choice. `
+- `The same plain white T-shirt can be framed as practical, sustainable, fashionable, or communal without changing the product. `
+- `Use influence principles and clear design to reveal real value; never use them to hide the truth, manufacture pressure, or trap people into a decision.`

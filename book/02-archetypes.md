@@ -88,4 +88,6 @@ Be careful with identity-based appeals. Do not use belonging to shame outsiders,
 
 ## What You Should Remember
 
-Brand archetypes help turn products and experiences into recognizable invitations: an invitation to feel, imagine, or become something. They are flexible cultural and narrative patterns, not personality diagnoses or rules. The same plain white T-shirt can suggest exploration, creativity, everyday belonging, or rebellion, but the chosen meaning must be supported by an honest product and respectful design.
+- `Brand archetypes help turn products and experiences into recognizable invitations: an invitation to feel, imagine, or become something. `
+- `They are flexible cultural and narrative patterns, not personality diagnoses or rules. `
+- `The same plain white T-shirt can suggest exploration, creativity, everyday belonging, or rebellion, but the chosen meaning must be supported by an honest product and respectful design.`

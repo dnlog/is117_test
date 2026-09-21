@@ -88,4 +88,7 @@ When you find an object, record what you can verify from its institutional recor
 
 ## What You Should Remember
 
-Visual design carries ideas through choices about order, type, color, space, imagery, and tone. Modernism, Bauhaus, and the Swiss / International Typographic Style made clarity, grids, hierarchy, reduction, and function highly influential. Postmodernism challenged the idea that those values should always dominate, making room for irony, expression, disruption, and many cultural voices. Contemporary design still works within these tensions. Use the language that best serves the purpose and audience, while keeping the experience clear and honest.
+- `Visual design carries ideas through choices about order, type, color, space, imagery, and tone. `
+- `Modernism, Bauhaus, and the Swiss / International Typographic Style made clarity, grids, hierarchy, reduction, and function highly influential.` 
+- `Postmodernism challenged the idea that those values should always dominate, making room for irony, expression, disruption, and many cultural voices.` 
+- `Contemporary design still works within these tensions. Use the language that best serves the purpose and audience, while keeping the experience clear and honest.`
