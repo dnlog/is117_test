@@ -85,6 +85,6 @@ That is why designers need to think beyond a logo or a headline. The product sto
 
 ## What You Should Remember
 
-- `One physical product can enter several different markets through different meanings. `
-- `A strong presentation combines a specific audience, a believable archetype, responsible persuasion, and a visual language that fits the promise. `
-- `Creativity is not permission to make claims the product cannot support. The best version makes its meaning clear while leaving the customer informed and free to choose.`
+- One physical product can enter several different markets through different meanings.
+- A strong presentation combines a specific audience, a believable archetype, responsible persuasion, and a visual language that fits the promise.
+- Creativity is not permission to make claims the product cannot support. The best version makes its meaning clear while leaving the customer informed and free to choose.

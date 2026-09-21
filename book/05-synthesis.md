@@ -86,6 +86,6 @@ The framework does not make AI less creative. It gives creative output a purpose
 
 ## What You Should Remember
 
-- `Persuasion, archetypes, and design language give AI work direction: response, meaning, and form.` 
-- `A clear specification keeps a task bounded; Git makes changes traceable and recoverable; deterministic checks provide cheap, repeatable evidence; and AI review can suggest useful leads without guaranteeing correctness.` 
-- `Humans remain responsible for what the work means, whether it is true and appropriate, and whether it should be released.`
+- Persuasion, archetypes, and design language give AI work direction: response, meaning, and form. 
+- A clear specification keeps a task bounded; Git makes changes traceable and recoverable; deterministic checks provide cheap, repeatable evidence; and AI review can suggest useful leads without guaranteeing correctness.
+- Humans remain responsible for what the work means, whether it is true and appropriate, and whether it should be released.
